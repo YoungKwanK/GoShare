@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### application 설정파일
+application.properties
+
+### codef API 정보 파일
+CodefClientInfo
