@@ -36,4 +36,4 @@ build/
 application.properties
 
 ### codef API 정보 파일
-CodefClientInfo
+src/main/java/com/GoShare/codefAPI/CodefClientInfo.java
